@@ -1,5 +1,5 @@
 const BASE_URL = 'https://pixabay.com/api';
-const KEY = '22385863-ab509129ff5717a9471438652';
+const KEY = '22555284-ed5f3516253fb9f9c4ec5f32e';
 
 let pageNumber = 0;
 let lastSearchQuery;
